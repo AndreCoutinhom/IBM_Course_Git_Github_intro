@@ -32,20 +32,8 @@ Bash is a Unix command-line shell. The name is an acronym for *Bourne-Again Shel
 * You can enable experimental options if you choose to. By enabling these options, you will be able to try newer features that are still being developed. However, you do not have to select any experimental options to use Git Bash. Click Install to complete the installation with the options you have chosen. The installation runs and when complete, a Completing the Git Setup Wizard window opens.
 * Leave the checkboxes selected and click **Next**. The Git Bash terminal opens. You are now able to enter Git and Bash commands.
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+## Author
+* Malika Singla
 
 
 
