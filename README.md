@@ -2,7 +2,7 @@
 
 # 🐙 Git and Github Basics 
 
-> **LIDDER, Upkar; AHUJA, Rav. Git and GitHub Basics. IBM Skills Network. 2023.**
+> LIDDER, Upkar; AHUJA, Rav. Git and GitHub Basics. IBM Skills Network. 2023.
 
 Collaboration and social coding are crucial parts of contemporary Software Engineering practices and the DevOps culture.  
 
