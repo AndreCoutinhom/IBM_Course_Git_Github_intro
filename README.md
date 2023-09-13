@@ -56,4 +56,4 @@ If you require any clarifications or help, feel free to post on the course discu
 ###
 
 * [Getting Started with Branches using Git Commands](Module%202/git_commands_practice.md)
-* [Getting Started with Branches using Git Commands (Full Text)](Module%202/git_commands_practice.txt)
+* [Getting Started with Branches using Git Commands (Full Text)](Module%202/git_commands_practice.sh)
