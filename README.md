@@ -28,3 +28,32 @@ In this course you will **develop the essential conceptual and hands-on skills t
 Next, you will become familiar with **Git workflows involving branches and pull requests (PRs) and merges**. You will learn to **fork and clone** public repositories, use **pull and push** to synchronize your codebase between local and remote repositories, and **practice working with Git commands** for use in collaborative development workflows. You will also **complete a project** at the end to apply and demonstrate your newly acquired skills.
 
 If you require any clarifications or help, feel free to post on the course discussion forums to interact with your peers and get assistance from the course team.
+
+## Module 1
+
+* [Overview of Version Control, Git, and GitHub](Module%201/overview.md)
+* [Overview of Version Control, Git, and GitHub (Full Text)](Module%201/overview.txt)
+
+###
+
+* [GitHub Repositories](Module%201/repositories.md)
+* [GitHub Repositories (Full Text)](Module%201/repositories.txt)
+
+###
+* [Introduction to GitHub](Module%201/introduction.md)
+* [Introduction to GitHub (Full Text)](Module%201/introduction.txt)
+
+###
+
+* [Getting Started](Module%201/get_started.md)
+* [Getting Started (Full Text)](Module%201/get_started.txt)
+
+## Module 2
+
+* [GitHub Branches](Module%202/branches.md)
+* [GitHub Branches (Full Text)](Module%202/branches.txt)
+
+###
+
+* [Getting Started with Branches using Git Commands](Module%202/git_commands_practice.md)
+* [Getting Started with Branches using Git Commands (Full Text)](Module%202/git_commands_practice.txt)
