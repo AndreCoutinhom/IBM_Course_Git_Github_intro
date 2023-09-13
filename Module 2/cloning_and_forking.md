@@ -41,13 +41,13 @@ After cloning the repo to the local machine, a developer can start making change
 
 Once the changes for a particular branch are complete, rather than merging to the main branch directly, it is often a good practice to `push` the new branch with changes to `origin` where other developers/reviewers can test/review the changes before merging the branch to main.
 
-NOTE: Since in this scenario the `feature1-branch` was developed by a new developer on the project, that developer may not have the access to merge their branch with main in origin. In fact, in many projects, only the project maintainers or admins are allowed to merge to the main branch, or in some sames a peer review may be required. In order to request that your changes be reviewed and merged with the main branch, many projects require that a `Pull Request` (PR) be submitted. Whereas, in some cases, e.g. if you are a lone developer on the project, this PR step may be omitted and you could merge and push your changes directly if you have write access to the origin repo.
+> *NOTE: Since in this scenario the `feature1-branch` was developed by a new developer on the project, that developer may not have the access to merge their branch with main in origin. In fact, in many projects, only the project maintainers or admins are allowed to merge to the main branch, or in some sames a peer review may be required. In order to request that your changes be reviewed and merged with the main branch, many projects require that a `Pull Request` (PR) be submitted. Whereas, in some cases, e.g. if you are a lone developer on the project, this PR step may be omitted and you could merge and push your changes directly if you have write access to the origin repo.*
 
 Every once in a while, a developer may want to get the latest copy of the repo from `origin` to serve as the base for making changes or reviewing changes by others. For example, this may be the case after the changes in `feature1-branch` have been pushed to origin and the peer developer wants to review the code. The `git fetch` command can be used for this purpose.
 
 The `git diff` command can help others reviewing your code to to identify and compare the changes. Once a peer reviewer or project maintainer has reviewed the changes, and is satisfied, the reviewer will `git checkout` the main branch and then `git merge` the new `feature1-branch`, which can then be deleted. After the branch is merged locally, the reviewer can `git push` the updated main branch back to `origin`.
 
-NOTE: The `git-remote -v` command can be used to check which remote repos you are synchronzing push and fetch changes with.
+> *NOTE: The `git-remote -v` command can be used to check which remote repos you are synchronzing push and fetch changes with.*
 
 Another option for getting the latest copy of the repo is to use the `git pull` command. The `pull` command in effect is a combination of `fetch` and `merge`. That is, using this single command, you can both fetch and merge the changes into your local repo. For example, another developer who wants to use the updated codebase with the `feature1` changes that have been merged to main branch in origin, can use the `git pull` command to `fetch` the updated codebase from origin and `merge` with his/her local codebase before starting development on a new feature.
 
@@ -61,7 +61,7 @@ If a developer wants to create a derivative project with another project as the 
 ![image](https://github.com/AndreCoutinhom/IBM_Course_Git_Github_intro/assets/91290799/067777ca-557d-44c1-88af-6c219acd6e68)
 
 
-NOTE: The fork option is available only using the web interface and there is no git command to create a fork. You can however use a `git clone` workaround - indicated at the bottom of this reading if interested.
+> *NOTE: The fork option is available only using the web interface and there is no git command to create a fork. You can however use a `git clone` workaround - indicated at the bottom of this reading if interested.*
 
 The project from which you create the fork is called the `upstream` project.
 
@@ -72,7 +72,7 @@ However it is important to note that the synchronization of changes using merge 
 ![image](https://github.com/AndreCoutinhom/IBM_Course_Git_Github_intro/assets/91290799/d88c8121-f1f4-4400-a576-04e1d37084f5)
 
 
-Note: the term `Pull Request` should not be confused with the `git pull` command that you use to `fetch` and `merge` the latest codebase into your local repo. A `Pull Request`, as the name implies, is merely a request to review and `pull` your proposed changes. As part of the PR, you provide details of the proposed changes and your implementation.
+> *Note: the term `Pull Request` should not be confused with the `git pull` command that you use to `fetch` and `merge` the latest codebase into your local repo. A `Pull Request`, as the name implies, is merely a request to review and `pull` your proposed changes. As part of the PR, you provide details of the proposed changes and your implementation.*
 
 The maintainers of the `upstream` project can review the changes in the PR and decide to merge them or not. In some cases they may provide feedback (by commenting in the PR) or ask the submitter of the PR to perform some conflict resolution such as by applying their changes to the latest codebase and resubmitting the PR.
 
@@ -97,7 +97,7 @@ In this reading you learned that:
 * The project that you fork from is referred to as the upstream project
 * You can suggest changes back to the upstream project by submitting a Pull Request (PR)
 
-FYI: Although the usual workflow to start with the codebase of another project is to first fork it and then clone the fork, you may be tempted to simply clone the upstream project since it is quite convenient to do so from your local machine using the git clone command. If you do so, you will note that the project you clone from will by default become the origin repo. But since you likely don’t have write access to the upstream repo that you cloned from, you will not be able to push your changes to it. Don’t worry. You can easily rename the origin to upstream using the command git remote rename origin upstream and then add a new origin using git remote add origin <url> to point to the URL of a new GitHub repo that you have created or have access to, and use that repo for making your changes to the fork’s code.
+> *FYI: Although the usual workflow to start with the codebase of another project is to first fork it and then clone the fork, you may be tempted to simply clone the upstream project since it is quite convenient to do so from your local machine using the git clone command. If you do so, you will note that the project you clone from will by default become the origin repo. But since you likely don’t have write access to the upstream repo that you cloned from, you will not be able to push your changes to it. Don’t worry. You can easily rename the origin to upstream using the command git remote rename origin upstream and then add a new origin using git remote add origin <url> to point to the URL of a new GitHub repo that you have created or have access to, and use that repo for making your changes to the fork’s code.*
 
 ## Author(s)
 ### Rav Ahuja
