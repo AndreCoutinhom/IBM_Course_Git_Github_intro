@@ -69,3 +69,9 @@ If you require any clarifications or help, feel free to post on the course discu
 * [Managing GitHub Projects](Module%202/projects.md)
 * [Managing GitHub Projects (Full Text)](Module%202/projects.txt)
 * [Managing GitHub Projects (Shell)](Module%202/projects.sh)
+
+## Windows GitHub
+
+* [Using Git Commands from your Desktop](Windows%20GitHub/git_desktop.md)
+* [Installing Git Bash](Windows%20GitHub/installation.md)
+* [Generate an SSH key](Windows%20GitHub/generate_ssh_key.md)
