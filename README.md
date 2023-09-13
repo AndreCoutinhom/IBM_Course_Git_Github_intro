@@ -57,3 +57,15 @@ If you require any clarifications or help, feel free to post on the course discu
 
 * [Getting Started with Branches using Git Commands](Module%202/git_commands_practice.md)
 * [Getting Started with Branches using Git Commands (Shell)](Module%202/git_commands_practice.sh)
+
+###
+
+* [Cloning and Forking GitHub Projects](Module%202/cloning_and_forking.md)
+* [Cloning and Forking GitHub Projects (Full Text)](Module%202/cloning_and_forking.txt)
+* [Cloning and Forking GitHub Projects (Shell)](Module%202/cloning_and_forking.sh)
+
+###
+
+* [Managing GitHub Projects](Module%202/projects.md)
+* [Managing GitHub Projects (Full Text)](Module%202/projects.txt)
+* [Managing GitHub Projects (Shell)](Module%202/projects.sh)
