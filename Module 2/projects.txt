@@ -1,0 +1,38 @@
+Welcome to Managing GitHub Projects.
+After watching this video, you will be able to:
+Understand common roles in a Git project.
+Use git commands to communicate with other developers.
+A Developer working as a participant in a group project needs to learn how to communicate
+with others and uses these commands in addition to the ones needed by a standalone developer.
+When working with Git, you can use Git commands or a desktop tool such as GitHub Desktop.
+git-clone from the upstream to prime the local repository.
+git-pull and git-fetch from "origin" to keep up-to-date with the upstream.
+git-push to shared repository, if you adopt CVS style shared repository workflow.
+git-format-patch to prepare e-mail submission, if you adopt Linux kernel-style public forum
+workflow.
+git-send-email to send your e-mail submission without corruption by your MUA.
+git-request-pull to create a summary of changes for your upstream to pull.
+An integrator in a group project receives changes made by others, reviews and integrates
+them that is responds to pull requests and publishes the result for others to use.
+Integrators use the following commands in addition to the ones needed by participants.
+git-am to apply patches e-mailed in from your contributors.
+git-pull to merge from your trusted lieutenants.
+git-format-patch to prepare and send suggested alternative to contributors.
+git-revert to undo botched commits.
+git-push to publish the bleeding edge.
+A Repository Administrator uses the following tools to set up and maintain access to the
+repository by developers.
+git-daemon to allow anonymous download from repository.
+git-shell can be used as a restricted login shell for shared central repository users.
+git-http-backend provides a server-side implementation of Git-over-HTTP ("Smart http") allowing both
+fetch and push services.
+gitweb provides a web front-end to Git repositories, which can be set-up using the git-instaweb
+script.
+Repository Admins can use GitHub Actions to automate software workflows, including continuous
+integration and continuous delivery.
+In this video, you learned:
+There are multiple roles involved in managing a project:
+Developer
+Integrator and
+Repository Administrator
+Each role uses different git commands to communicate with collaborators.
