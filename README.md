@@ -10,6 +10,8 @@ You will explore key Git concepts such as branching and repositories, as well as
 
 Developed and taught by experienced IBM practitioners, in this course you’ll gain vital skills and hands-on experience using Git and GitHub. Each module contains hands-on labs for you to apply and practice what you learn.  The course wraps up with a final project where you will start building your portfolio by creating and sharing a public/open-source GitHub project.
 
+  <img align="center" alt="Octocat" height="208" width="208" src="https://raw.githubusercontent.com/Aoihara/Aoihara/master/git.gif">
+
 ## Introduction
 
 
@@ -123,5 +125,6 @@ References to IBM products or services do not imply that IBM intends to make the
 
 Other product, company, or service names may be trademarks or service marks of others.
 
+  <img align="center" alt="Octocat_hula" height="208" width="208" src="https://raw.githubusercontent.com/themagicalmammal/themagicalmammal/master/images/octocat/6.gif">
 
 
