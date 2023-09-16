@@ -77,3 +77,7 @@ If you require any clarifications or help, feel free to post on the course discu
 * [Generate an SSH key](Windows%20GitHub/generate_ssh_key.md)
 * [Adding an SSH key to GitHub](Windows%20GitHub/ssh_github.md)
 * [Cloning, committing and pushing your GitHub repo from the command line.](Windows%20GitHub/desktop_git_use.md)
+
+## Final Project
+
+
