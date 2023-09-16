@@ -80,4 +80,48 @@ If you require any clarifications or help, feel free to post on the course discu
 
 ## Final Project
 
+* [GitHub UI](Final%20Project/ui.md)
+* [GitHub CLI](Final%20Project/cli.md)
+
+## Credits and Acknowledgments
+
+The Course Team below would like to thank you for completing this GitHub course!
+
+###
+
+### Primary Instructors 
+
+* Upkar Lidder [ LinkedIn | Twitter: @lidderupk ]
+* R​av Ahuja [ LinkedIn ravahuja  | Twitter @ravahuja ] 
+
+### Other Contributors & Staff 
+
+* V​ideo Scripts: Maureen McElaney, Lavanya TS, Malika Singla, Aije Egwaikhide
+* Labs and Project: Malika Singla, Upkar Lidder
+* Project Manager: Alison Woolford
+
+### Production Team
+
+* Publishing: Grace Barker, Rachael Jones, Adrita Khaund
+* UXQA: Sunny Anderson
+* Narration: Bella West
+* Video Production: Simer Preet, Rajeev Kumar
+
+## Copyrights and Trademarks
+
+Copyrights and Trademarks
+
+###
+
+IBM®, the IBM logo, and IBM.com® are trademarks or registered trademarks of International Business Machines Corporation in the United States, other countries, or both. A current list of IBM trademarks is available on the Web at “Copyright and trademark information” at: [https://www.ibm.com/legal/copytrade](https://www.ibm.com/legal/copytrade)
+
+###
+
+References to IBM products or services do not imply that IBM intends to make them available in all countries in which IBM operates.
+
+###
+
+Other product, company, or service names may be trademarks or service marks of others.
+
+
 
