@@ -125,6 +125,4 @@ References to IBM products or services do not imply that IBM intends to make the
 
 Other product, company, or service names may be trademarks or service marks of others.
 
-  <img align="center" alt="Octocat_hula" height="208" width="208" src="https://raw.githubusercontent.com/themagicalmammal/themagicalmammal/master/images/octocat/6.gif">
-
 
