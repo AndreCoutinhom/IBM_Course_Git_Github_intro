@@ -1,6 +1,6 @@
 ![image](https://github.com/AndreCoutinhom/AndreCoutinhom/assets/91290799/ca40ca09-a40e-44ae-9e2a-25c3042b502c)
 
-# 🐙 Git and Github Basics 
+# 🐙 Git and Github Basics 😺
 
 > LIDDER, Upkar; AHUJA, Rav. Git and GitHub Basics. IBM Skills Network. 2023.
 
